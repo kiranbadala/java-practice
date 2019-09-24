@@ -1,0 +1,8 @@
+/guava-library-practice/target
+/filtering-transforming-guava-collections/*.classpath
+/filtering-transforming-guava-collections/*.project
+/filtering-transforming-guava-collections/target
+/guava-join-split-collections/target
+/lambda-practice/target
+/reactive-practice/target
+/vavr-library-practice/target
